@@ -51,9 +51,9 @@ These are live interface values, not permanent constants. Confirm them at launch
 For example, a fictional token could be configured as follows:
 
 - **Image:** an image accepted by the launch form.
-- **Name:** `Hatcoin`.
-- **Ticker:** `HATCOIN`, displayed as `$HATCOIN`.
-- **Description:** `A community token for people who always wear a hat.`
+- **Name:** `RobinHat`.
+- **Ticker:** `RHAT`, displayed as `$RHAT`.
+- **Description:** `A community token for people who always wear a robinhood hat.`
 - **Community links:** optional and may be left empty.
 - **Creator wallet:** left empty to use the connected wallet, or set to another verified EVM address.
 - **Developer buy:** optional; enter an ETH amount or leave it at zero.
