@@ -1,4 +1,3 @@
-[LAUNCH_TOKEN (2).md](https://github.com/user-attachments/files/31732643/LAUNCH_TOKEN.2.md)
 # Launch a Token
 
 ## Launch Flow
@@ -60,14 +59,14 @@ The public interface currently displays:
 
 These are live interface values, not permanent protocol constants. Confirm every value directly in the launch interface before signing.
 
-## Example Launch: The NVIDIA Table
+## Example Launch: The Amazon Fork
 
 A fictional example token could be configured as follows:
 
-- **Image:** An image for The NVIDIA Table accepted by the launch form.
-- **Name:** The NVIDIA Table
-- **Ticker:** `TABLE`, displayed as `$TABLE`
-- **Description:** The NVIDIA table, paired to NVDA.
+- **Image:** An image for The AMAZON Fork accepted by the launch form.
+- **Name:** The Amazon Fork
+- **Ticker:** `FORK`, displayed as `$FORK`
+- **Description:** The Amazon fork, paired to AMZN.
 - **X profile:** Optional and may be left empty.
 - **Telegram:** Optional and may be left empty.
 - **Website:** Optional and may be left empty.
