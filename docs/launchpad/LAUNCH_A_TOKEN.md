@@ -1,4 +1,4 @@
-[LAUNCH_TOKEN.md](https://github.com/user-attachments/files/31722064/LAUNCH_TOKEN.md)
+[LAUNCH_TOKEN (2).md](https://github.com/user-attachments/files/31732643/LAUNCH_TOKEN.2.md)
 # Launch a Token
 
 ## Launch Flow
@@ -60,14 +60,14 @@ The public interface currently displays:
 
 These are live interface values, not permanent protocol constants. Confirm every value directly in the launch interface before signing.
 
-## Example Launch: Reddit Chair Coin
+## Example Launch: The NVIDIA Table
 
 A fictional example token could be configured as follows:
 
-- **Image:** A Reddit Chair Coin image accepted by the launch form.
-- **Name:** Reddit Chair Coin
-- **Ticker:** `RCHAIR`, displayed as `$RCHAIR`
-- **Description:** Reddit chair paired to Reddit pairs.
+- **Image:** An image for The NVIDIA Table accepted by the launch form.
+- **Name:** The NVIDIA Table
+- **Ticker:** `TABLE`, displayed as `$TABLE`
+- **Description:** The NVIDIA table, paired to NVDA.
 - **X profile:** Optional and may be left empty.
 - **Telegram:** Optional and may be left empty.
 - **Website:** Optional and may be left empty.
@@ -76,4 +76,4 @@ A fictional example token could be configured as follows:
 
 This example is fictional and does not represent a deployed token, verified project, or financial opportunity.
 
-Names and tickers are not unique identifiers. Users should verify Reddit Chair Coin using its deployed contract address rather than relying only on the name **Reddit Chair Coin** or the `$RCHAIR` ticker.
+Names and tickers are not unique identifiers. Users should verify The NVIDIA Table using its deployed contract address rather than relying only on the name **The NVIDIA Table** or the `$TABLE` ticker.
